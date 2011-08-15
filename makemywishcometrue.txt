@@ -1,1 +1,3 @@
 I would like to ...
+
+get informed and inspired, meet ppl, learn about scala.
